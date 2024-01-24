@@ -1,2 +1,2 @@
 # CV-generator
- generates CV's with LaWTeX
+ generates CV's with LaTeX
