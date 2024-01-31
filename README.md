@@ -1,2 +1,2 @@
-# CV-generator
- generates CV's with LaTeX
+# LaTeX CV 
+ generates CV's using LaTeX
