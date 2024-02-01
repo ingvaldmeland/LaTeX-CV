@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.31)  31 JAN 2024 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.31)  1 FEB 2024 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,11 +507,11 @@ Package hyperref Info: Link coloring OFF on input line 53.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 53.
 \makecvtitlepicturebox=\box57
-<pictures/picture.png, id=32, 194.7275pt x 259.97125pt>
+<pictures/picture.png, id=32, 201.75375pt x 256.70906pt>
 File: pictures/picture.png Graphic file (type png)
 <use pictures/picture.png>
 Package pdftex.def Info: pictures/picture.png  used on input line 59.
-(pdftex.def)             Requested size: 80.0pt x 106.8031pt.
+(pdftex.def)             Requested size: 80.0pt x 101.79262pt.
 \makecvtitlepicturewidth=\skip78
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
@@ -552,55 +552,28 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 67.
 
 
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 95.
-
-
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 95.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 99.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \hbox (badness 1867) in paragraph at lines 95--95
-[]\T1/lmss/m/n/10 (+20) Developed spread-sheets for risk anal-y-sis on ex-otic 
-deriva-tives on a wide ar-ray
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-
- []
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 109.
 (C:\Users\Ingvald\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 95.
-
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
-5.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+16.
 (C:\Users\Ingvald\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-
-LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 99.
-
 [1
 
 {C:/Users/Ingvald/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/In
 gvald/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ingv
 ald/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./pictures/pi
-cture.png (PNG copy)>]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 125.
- [2]
+cture.png>] [2]
 (C:/Users\Ingvald\Documents\Skole\Github\CV-generator\auxil\cv_7.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -610,29 +583,28 @@ Package rerunfilecheck Info: File `cv_7.out' has not changed.
 (rerunfilecheck)             Checksum: 102DA56014408B97F3699369C896148E;680.
  ) 
 Here is how much of TeX's memory you used:
- 12577 strings out of 474542
- 204849 string characters out of 5743502
- 1944978 words of memory out of 5000000
- 34510 multiletter control sequences out of 15000+600000
- 631051 words of font info for 119 fonts, out of 8000000 for 9000
+ 12533 strings out of 474542
+ 204180 string characters out of 5743502
+ 1945978 words of memory out of 5000000
+ 34493 multiletter control sequences out of 15000+600000
+ 617739 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,13n,83p,1003b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,83p,1003b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10
-.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr1
-0.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
-o10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mss10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmss12.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-lm/lmss17.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/lm/lmss8.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/lm/lmssbx10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/lm/lmsso10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/lm/lmsso17.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/marvosym/marvosym.pfb>
+.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro
+10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
+ss10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmss12.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmss17.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/lm/lmss8.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/lm/lmssbx10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmsso10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/lm/lmsso17.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/marvosym/marvosym.pfb>
 Output written on C:/Users\Ingvald\Documents\Skole\Github\CV-generator\out\cv_7
-.pdf (2 pages, 346974 bytes).
+.pdf (2 pages, 379640 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
- 47166 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 36926 words of extra memory for PDF output out of 42996 (max. 10000000)
 
