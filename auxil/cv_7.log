@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.31)  1 FEB 2024 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.31)  1 FEB 2024 14:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -471,15 +471,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
-* v-part:(T,H,B)=(84.50467pt, 633.78513pt, 126.75705pt)
+* h-part:(L,W,R)=(56.76398pt, 483.9799pt, 56.76399pt)
+* v-part:(T,H,B)=(64.22437pt, 684.48587pt, 96.33661pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=448.1309pt
-* \textheight=633.78513pt
-* \oddsidemargin=2.41849pt
-* \evensidemargin=2.41849pt
-* \topmargin=-24.76532pt
+* \textwidth=483.9799pt
+* \textheight=684.48587pt
+* \oddsidemargin=-15.50601pt
+* \evensidemargin=-15.50601pt
+* \topmargin=-45.04562pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -564,7 +564,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-16.
+25.
 (C:\Users\Ingvald\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -573,7 +573,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 {C:/Users/Ingvald/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/In
 gvald/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Ingv
 ald/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./pictures/pi
-cture.png>] [2]
+cture.png>]
 (C:/Users\Ingvald\Documents\Skole\Github\CV-generator\auxil\cv_7.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -583,13 +583,13 @@ Package rerunfilecheck Info: File `cv_7.out' has not changed.
 (rerunfilecheck)             Checksum: 102DA56014408B97F3699369C896148E;680.
  ) 
 Here is how much of TeX's memory you used:
- 12533 strings out of 474542
- 204180 string characters out of 5743502
- 1945978 words of memory out of 5000000
+ 12532 strings out of 474542
+ 204174 string characters out of 5743502
+ 1948978 words of memory out of 5000000
  34493 multiletter control sequences out of 15000+600000
  617739 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,13n,83p,1003b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,12n,83p,1003b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10
 .pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro
 10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
@@ -602,9 +602,9 @@ ublic/lm/lmsso10.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/lm/lmsso17.pfb><C:/Users/Ingvald/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/marvosym/marvosym.pfb>
 Output written on C:/Users\Ingvald\Documents\Skole\Github\CV-generator\out\cv_7
-.pdf (2 pages, 379640 bytes).
+.pdf (1 page, 378413 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
  36926 words of extra memory for PDF output out of 42996 (max. 10000000)
 
